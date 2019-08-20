@@ -1,0 +1,10 @@
+{
+  "name": "gyl-rss-broadcaster",
+  "version": "0.0.1",
+  "description": "Reads an RSS feed and broadcasts new content to subscribers.",
+  "main": "src/gyl-rss-broadcaster.js",
+  "repository": "https://github.com/growyourlist/gyl-rss-broadcaster",
+  "author": "https://github.com/gyl-dev",
+  "license": "MIT",
+  "private": false
+}
